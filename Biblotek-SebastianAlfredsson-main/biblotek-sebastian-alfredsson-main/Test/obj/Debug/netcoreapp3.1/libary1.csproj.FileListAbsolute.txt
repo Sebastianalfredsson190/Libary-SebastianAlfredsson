@@ -1,0 +1,3 @@
+C:\Users\sebastian.alfredsso\Documents\Libary\Libary\Test\obj\Debug\netcoreapp3.1\libary1.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.alfredsso\Documents\Libary\Libary\Test\obj\Debug\netcoreapp3.1\libary1.AssemblyInfoInputs.cache
+C:\Users\sebastian.alfredsso\Documents\Libary\Libary\Test\obj\Debug\netcoreapp3.1\libary1.AssemblyInfo.cs

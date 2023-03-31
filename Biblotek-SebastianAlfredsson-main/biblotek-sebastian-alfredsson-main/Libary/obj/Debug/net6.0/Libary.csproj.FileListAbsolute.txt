@@ -1,0 +1,15 @@
+C:\Users\Elev\source\repos\Libary\Libary\bin\Debug\net6.0\Libary.exe
+C:\Users\Elev\source\repos\Libary\Libary\bin\Debug\net6.0\Libary.deps.json
+C:\Users\Elev\source\repos\Libary\Libary\bin\Debug\net6.0\Libary.runtimeconfig.json
+C:\Users\Elev\source\repos\Libary\Libary\bin\Debug\net6.0\Libary.dll
+C:\Users\Elev\source\repos\Libary\Libary\bin\Debug\net6.0\Libary.pdb
+C:\Users\Elev\source\repos\Libary\Libary\obj\Debug\net6.0\Libary.csproj.AssemblyReference.cache
+C:\Users\Elev\source\repos\Libary\Libary\obj\Debug\net6.0\Libary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elev\source\repos\Libary\Libary\obj\Debug\net6.0\Libary.AssemblyInfoInputs.cache
+C:\Users\Elev\source\repos\Libary\Libary\obj\Debug\net6.0\Libary.AssemblyInfo.cs
+C:\Users\Elev\source\repos\Libary\Libary\obj\Debug\net6.0\Libary.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\Libary\Libary\obj\Debug\net6.0\Libary.dll
+C:\Users\Elev\source\repos\Libary\Libary\obj\Debug\net6.0\refint\Libary.dll
+C:\Users\Elev\source\repos\Libary\Libary\obj\Debug\net6.0\Libary.pdb
+C:\Users\Elev\source\repos\Libary\Libary\obj\Debug\net6.0\Libary.genruntimeconfig.cache
+C:\Users\Elev\source\repos\Libary\Libary\obj\Debug\net6.0\ref\Libary.dll
